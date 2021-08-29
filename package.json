@@ -1,0 +1,19 @@
+{
+  "name": "aabc-backend",
+  "version": "1.0.0",
+  "description": "This is our group project backend repo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AABC-Final-Project/AABC-BackEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AABC-Final-Project/AABC-BackEnd/issues"
+  },
+  "homepage": "https://github.com/AABC-Final-Project/AABC-BackEnd#readme"
+}
