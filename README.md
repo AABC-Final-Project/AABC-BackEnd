@@ -28,7 +28,7 @@ Description: Gaming Odyssey is an application that allows people to plan ahead f
 
 
 **GameSchema**  
-![GameSchema](https://user-images.githubusercontent.com/81712870/131445376-37b0d612-6e0f-4c58-b8ba-dc68333e2a3d.png)
+![GameSchema](https://user-images.githubusercontent.com/81712870/131456484-e3f71e8d-7abb-45ac-a523-e488e859c2e0.png)
 This collection would be a single collection not assocaited with another! 
 We hope to use this GameSchema to create our database to allow games you are intrested in to be stored and show to you. 
 
