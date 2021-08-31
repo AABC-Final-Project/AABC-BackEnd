@@ -40,3 +40,5 @@ What are your stretch goals? We would want to find a way to incorporate a calend
 > ### **Data flow**
 ![301-flowchart](https://user-images.githubusercontent.com/81946031/131468214-1de59b74-ad66-47f5-8f67-45cb9d46fdd8.png)
 
+
+> ### **Non-functional requirements**
